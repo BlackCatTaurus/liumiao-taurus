@@ -3,7 +3,7 @@
     <div class="l_building">
         <img src="./assets/logo_400x400.png" alt="thisIsMyLogo">
         <i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i>
-        <p>喵～网站正在建设中～不久将上线第一版～敬请期待>_<</p>
+        <p>喵～网站正在建设中～123不久将上线第一版～敬请期待>_<</p>
     </div>
 </div>
 </template>
